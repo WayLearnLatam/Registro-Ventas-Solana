@@ -1,4 +1,4 @@
-# Biblioteca en Solana
+# Registro de Ventas en Solana
 
 ![banner](./images/Banner.jpg)
 
